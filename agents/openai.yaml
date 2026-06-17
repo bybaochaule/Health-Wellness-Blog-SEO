@@ -1,0 +1,4 @@
+interface:
+  display_name: "Health Wellness Blog SEO"
+  short_description: "Responsible SEO health article assistant"
+  default_prompt: "Use $health-wellness-blog-seo to draft a responsible SEO brief and outline for a wellness article."
