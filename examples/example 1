@@ -1,0 +1,20 @@
+# Example 1: Search-Intent Brief
+
+## User Request
+
+Use `health-wellness-blog-seo` to create a search-intent brief and outline for "how to improve sleep hygiene naturally."
+
+## Expected Output Shape
+
+- Risk rating: low to medium
+- Search intent: informational
+- Audience: adults seeking better sleep routines
+- Primary keyword: sleep hygiene naturally
+- Secondary terms: bedtime routine, sleep environment, caffeine and sleep, screen time before bed
+- Safety notes: persistent insomnia, sleep apnea symptoms, pregnancy, medication effects, anxiety, depression, and shift work may require professional support
+- Source plan: sleep medicine association guidance, public health sleep resources, systematic reviews where relevant
+- SEO titles: cautious and practical, no cure claims
+- Meta descriptions: useful and under about 155 characters
+- Outline: practical routine, environment, habits, when to seek help
+- FAQ: "How long does sleep hygiene take to work?", "What should I avoid before bed?", "When should I talk to a doctor?"
+- CTA: download a sleep routine checklist or discuss persistent sleep issues with a qualified professional
